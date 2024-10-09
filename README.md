@@ -1,18 +1,14 @@
 <div align="center">
-  <img width="800" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Ketan+Saini++%F0%9F%91%8B;Let's+Connect!"/>
+  <img  align="center" width="1000" style="margin-bottom: 40px;" src="https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif"/>
+  <img width="1000" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=D2A8FF&width=535&lines=Hi there%2C+I'm+Ketan+Saini++%F0%9F%91%8B;Let's+Connect!"/>
 </div>
 
-<!--
-**ketan1406/ketan1406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">👩‍💻  About Me</h2>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Machine Learning and Full Stack Development
+- 👯 I’m looking to collaborate on Full Stack and Backend Development
+
+
+<!-- hr style="border: none; height: 2px; background-color: #d2d2d2; width: 100%; margin-bottom: 30px; margin-top: 5px">
