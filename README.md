@@ -37,15 +37,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40px" height="40px" style="filter: brightness(2);"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://camo.githubusercontent.com/76d139c63b8817582a8948b587a2d66b8a5796dc0f7df13c58f1259e88e9226e/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f626f6f7473747261702f373935324233" alt="bootstrap" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp; 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp; 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp;
