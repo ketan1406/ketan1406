@@ -20,6 +20,8 @@
 
 - 👯 I’m looking to collaborate on Full Stack and Backend Development
 
+- 🌱 I’m currently deciphering different Web-frameworks and ML technologies 
+
 ###
 
 <h2 style="display: inline;">💻 Tech Stack & Tools:</h2>
