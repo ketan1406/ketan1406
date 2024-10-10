@@ -67,13 +67,3 @@
   <a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="discord logo" width=40px height=40px/></a>
 
 </div>
-
-<style>
-  .icon-container {
-    display: flex;               
-    flex-wrap: wrap;             
-    justify-content: center;     
-    gap: 20px;                   
-    padding: 20px;               
-  }
-</style>
