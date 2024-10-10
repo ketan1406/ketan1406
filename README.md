@@ -78,7 +78,7 @@
   }
 
   .tech-icon {
-    width: 40px;                 
-    height: 40px;                
+    width: 2px;                 
+    height: 2px;                
   }
 </style>
