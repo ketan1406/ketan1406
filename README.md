@@ -60,7 +60,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40px" height="40px"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/discord/5865F2" alt="discord logo" width="40px" height="40p"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
